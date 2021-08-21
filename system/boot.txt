@@ -1,0 +1,33 @@
+[*****] BOOT: ---------------------[ Boot Log ]--------------------
+[*****] BOOT: Load_resets: limbo.are (2) 'D': room 32083 doesn't exist.
+[*****] BOOT: Load_resets: limbo.are (3) 'D': room 32083 doesn't exist.
+[*****] BOOT: Load_resets: limbo.are (4) 'D': room 32083 doesn't exist.
+[*****] BOOT: Load_resets: limbo.are (6) 'O': object 32201 doesn't exist.
+[*****] BOOT: Load_resets: space.are (265) 'G': object 302 doesn't exist.
+[*****] BOOT: Load_resets: space.are (266) 'G': object 201 doesn't exist.
+[*****] BOOT: Load_resets: space.are (267) 'G': object 304 doesn't exist.
+[*****] BOOT: Load_resets: space.are (270) 'O': object 10199 doesn't exist.
+[*****] BOOT: Load_resets: omni_complex (2) 'D': exit 4 not door.
+[*****] BOOT: Load_resets: omni_complex (11) 'O': object 10199 doesn't exist.
+[*****] BOOT: Load_resets: omni_complex (13) 'O': object 21500 doesn't exist.
+[*****] BOOT: Load_resets: menari_spaceport (6) 'G': object 305 doesn't exist.
+[*****] BOOT: Load_resets: menari_spaceport (7) 'G': object 304 doesn't exist.
+[*****] BOOT: Load_resets: menari_spaceport (21) 'E': object 332 doesn't exist.
+[*****] BOOT: Load_resets: menari_spaceport (25) 'E': object 332 doesn't exist.
+[*****] BOOT: Load_resets: menari_spaceport (33) 'G': object 329 doesn't exist.
+[*****] BOOT: Load_resets: darkhand (106) 'O': object 10199 doesn't exist.
+[*****] BOOT: Fix_exits: room 106, exit southwest leads to bad vnum (31898)
+[*****] BOOT: Fix_exits: room 210, exit north leads to bad vnum (301)
+[*****] BOOT: Fix_exits: room 216, exit east leads to bad vnum (431)
+[*****] BOOT: Fix_exits: room 217, exit southwest leads to bad vnum (433)
+[*****] BOOT: Fix_exits: room 218, exit west leads to bad vnum (436)
+[*****] BOOT: Fix_exits: room 218, exit southwest leads to bad vnum (435)
+[*****] BOOT: Fix_exits: room 219, exit west leads to bad vnum (438)
+[*****] BOOT: Fix_exits: room 219, exit southwest leads to bad vnum (437)
+[*****] BOOT: Fix_exits: room 220, exit south leads to bad vnum (439)
+[*****] BOOT: Fix_exits: room 221, exit north leads to bad vnum (441)
+[*****] BOOT: Fix_exits: room 222, exit east leads to bad vnum (443)
+[*****] BOOT: Fix_exits: room 223, exit south leads to bad vnum (445)
+[*****] BOOT: Fix_exits: room 224, exit north leads to bad vnum (447)
+[*****] BOOT: Fix_exits: room 32297, exit west leads to bad vnum (10006)
+[*****] BOOT: Fix_exits: room 32299, exit down leads to bad vnum (21100)

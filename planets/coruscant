@@ -1,0 +1,11 @@
+#PLANET
+Name         coruscant~
+Filename     coruscant~
+BaseValue    500000
+Flags        1
+PopSupport   0.000000
+Starsystem   Coruscant System~
+GovernedBy   The New Republic~
+End
+
+#END

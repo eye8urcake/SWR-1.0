@@ -1,0 +1,4 @@
+level
+skill_level(COMBAT_ABILITY)
+skill_level(FORCE_ABILITY)
+skill_level(HUNTING_ABILITY)

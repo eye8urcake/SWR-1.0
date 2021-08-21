@@ -1,0 +1,322 @@
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 0
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_obj_index: bad vnum 32201.
+[*****] BUG: Get_obj_index: bad vnum 302.
+[*****] BUG: Get_obj_index: bad vnum 201.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Reset: D 0 101 4 0
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_obj_index: bad vnum 21500.
+[*****] BUG: load_area: error loading file (can't open)
+[*****] BUG: menari_spaceport
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_mob_index: bad vnum 3001.
+[*****] BUG: Get_room_index: bad vnum 3068.
+[*****] BUG: Get_obj_index: bad vnum 6705.
+[*****] BUG: Get_obj_index: bad vnum 6609.
+[*****] BUG: Get_obj_index: bad vnum 7311.
+[*****] BUG: Get_mob_index: bad vnum 6604.
+[*****] BUG: Get_room_index: bad vnum 31898.
+[*****] BUG: Deleting southwest exit in room 106
+[*****] BUG: Get_room_index: bad vnum 10006.
+[*****] BUG: Deleting west exit in room 32297
+[*****] BUG: Get_room_index: bad vnum 21100.
+[*****] BUG: Deleting down exit in room 32299
+[*****] BUG: Fread_obj: Corpse without room
+[*****] BUG: Fread_obj: Corpse without room
+[*****] BUG: Fread_planet: no match: .000000
+[*****] BUG: Fread_planet: no match: .000000
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 302.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 201.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 21500.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'M': bad mob vnum 3001.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 6609.
+[*****] BUG: Reset_area: 'O': bad obj vnum 7311.
+[*****] BUG: Reset_area: 'M': bad mob vnum 6604.
+[*****] BUG: Char_to_room: Malaspex -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 0
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_obj_index: bad vnum 32201.
+[*****] BUG: Get_obj_index: bad vnum 302.
+[*****] BUG: Get_obj_index: bad vnum 201.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Reset: D 0 101 4 0
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_obj_index: bad vnum 21500.
+[*****] BUG: Get_obj_index: bad vnum 305.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 329.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_room_index: bad vnum 31898.
+[*****] BUG: Deleting southwest exit in room 106
+[*****] BUG: Get_room_index: bad vnum 301.
+[*****] BUG: Deleting north exit in room 210
+[*****] BUG: Get_room_index: bad vnum 431.
+[*****] BUG: Deleting east exit in room 216
+[*****] BUG: Get_room_index: bad vnum 433.
+[*****] BUG: Deleting southwest exit in room 217
+[*****] BUG: Get_room_index: bad vnum 436.
+[*****] BUG: Deleting west exit in room 218
+[*****] BUG: Get_room_index: bad vnum 435.
+[*****] BUG: Deleting southwest exit in room 218
+[*****] BUG: Get_room_index: bad vnum 438.
+[*****] BUG: Deleting west exit in room 219
+[*****] BUG: Get_room_index: bad vnum 437.
+[*****] BUG: Deleting southwest exit in room 219
+[*****] BUG: Get_room_index: bad vnum 439.
+[*****] BUG: Deleting south exit in room 220
+[*****] BUG: Get_room_index: bad vnum 441.
+[*****] BUG: Deleting north exit in room 221
+[*****] BUG: Get_room_index: bad vnum 443.
+[*****] BUG: Deleting east exit in room 222
+[*****] BUG: Get_room_index: bad vnum 445.
+[*****] BUG: Deleting south exit in room 223
+[*****] BUG: Get_room_index: bad vnum 447.
+[*****] BUG: Deleting north exit in room 224
+[*****] BUG: Get_room_index: bad vnum 10006.
+[*****] BUG: Deleting west exit in room 32297
+[*****] BUG: Get_room_index: bad vnum 21100.
+[*****] BUG: Deleting down exit in room 32299
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: read_board: no match: yÿ
+[*****] BUG: Fread_planet: no match: .000000
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 302.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 21500.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 305.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 329.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 0
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_obj_index: bad vnum 32201.
+[*****] BUG: Get_obj_index: bad vnum 302.
+[*****] BUG: Get_obj_index: bad vnum 201.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Reset: D 0 101 4 0
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_obj_index: bad vnum 21500.
+[*****] BUG: Get_obj_index: bad vnum 305.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 329.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_room_index: bad vnum 31898.
+[*****] BUG: Deleting southwest exit in room 106
+[*****] BUG: Get_room_index: bad vnum 301.
+[*****] BUG: Deleting north exit in room 210
+[*****] BUG: Get_room_index: bad vnum 431.
+[*****] BUG: Deleting east exit in room 216
+[*****] BUG: Get_room_index: bad vnum 433.
+[*****] BUG: Deleting southwest exit in room 217
+[*****] BUG: Get_room_index: bad vnum 436.
+[*****] BUG: Deleting west exit in room 218
+[*****] BUG: Get_room_index: bad vnum 435.
+[*****] BUG: Deleting southwest exit in room 218
+[*****] BUG: Get_room_index: bad vnum 438.
+[*****] BUG: Deleting west exit in room 219
+[*****] BUG: Get_room_index: bad vnum 437.
+[*****] BUG: Deleting southwest exit in room 219
+[*****] BUG: Get_room_index: bad vnum 439.
+[*****] BUG: Deleting south exit in room 220
+[*****] BUG: Get_room_index: bad vnum 441.
+[*****] BUG: Deleting north exit in room 221
+[*****] BUG: Get_room_index: bad vnum 443.
+[*****] BUG: Deleting east exit in room 222
+[*****] BUG: Get_room_index: bad vnum 445.
+[*****] BUG: Deleting south exit in room 223
+[*****] BUG: Get_room_index: bad vnum 447.
+[*****] BUG: Deleting north exit in room 224
+[*****] BUG: Get_room_index: bad vnum 10006.
+[*****] BUG: Deleting west exit in room 32297
+[*****] BUG: Get_room_index: bad vnum 21100.
+[*****] BUG: Deleting down exit in room 32299
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: read_board: no match: yÿ
+[*****] BUG: Fread_planet: no match: .000000
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 302.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 21500.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 305.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 329.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 0
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_obj_index: bad vnum 32201.
+[*****] BUG: Get_obj_index: bad vnum 302.
+[*****] BUG: Get_obj_index: bad vnum 201.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Reset: D 0 101 4 0
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_obj_index: bad vnum 21500.
+[*****] BUG: Get_obj_index: bad vnum 305.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 329.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_room_index: bad vnum 31898.
+[*****] BUG: Deleting southwest exit in room 106
+[*****] BUG: Get_room_index: bad vnum 301.
+[*****] BUG: Deleting north exit in room 210
+[*****] BUG: Get_room_index: bad vnum 431.
+[*****] BUG: Deleting east exit in room 216
+[*****] BUG: Get_room_index: bad vnum 433.
+[*****] BUG: Deleting southwest exit in room 217
+[*****] BUG: Get_room_index: bad vnum 436.
+[*****] BUG: Deleting west exit in room 218
+[*****] BUG: Get_room_index: bad vnum 435.
+[*****] BUG: Deleting southwest exit in room 218
+[*****] BUG: Get_room_index: bad vnum 438.
+[*****] BUG: Deleting west exit in room 219
+[*****] BUG: Get_room_index: bad vnum 437.
+[*****] BUG: Deleting southwest exit in room 219
+[*****] BUG: Get_room_index: bad vnum 439.
+[*****] BUG: Deleting south exit in room 220
+[*****] BUG: Get_room_index: bad vnum 441.
+[*****] BUG: Deleting north exit in room 221
+[*****] BUG: Get_room_index: bad vnum 443.
+[*****] BUG: Deleting east exit in room 222
+[*****] BUG: Get_room_index: bad vnum 445.
+[*****] BUG: Deleting south exit in room 223
+[*****] BUG: Get_room_index: bad vnum 447.
+[*****] BUG: Deleting north exit in room 224
+[*****] BUG: Get_room_index: bad vnum 10006.
+[*****] BUG: Deleting west exit in room 32297
+[*****] BUG: Get_room_index: bad vnum 21100.
+[*****] BUG: Deleting down exit in room 32299
+[*****] BUG: fread_word: EOF encountered on read.
+
+[*****] BUG: read_board: no match: yÿ
+[*****] BUG: Fread_planet: no match: .000000
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 302.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 21500.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 305.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 329.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 0
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_room_index: bad vnum 32083.
+[*****] BUG: Load_resets: 'D': room 32083 doesn't exist.
+[*****] BUG: Reset: D 0 32083 2 2
+[*****] BUG: Get_obj_index: bad vnum 32201.
+[*****] BUG: Get_obj_index: bad vnum 302.
+[*****] BUG: Get_obj_index: bad vnum 201.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Load_resets: 'D': exit 4 not door.
+[*****] BUG: Reset: D 0 101 4 0
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_obj_index: bad vnum 21500.
+[*****] BUG: Get_obj_index: bad vnum 305.
+[*****] BUG: Get_obj_index: bad vnum 304.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 332.
+[*****] BUG: Get_obj_index: bad vnum 329.
+[*****] BUG: Get_obj_index: bad vnum 10199.
+[*****] BUG: Get_room_index: bad vnum 31898.
+[*****] BUG: Deleting southwest exit in room 106
+[*****] BUG: Get_room_index: bad vnum 301.
+[*****] BUG: Deleting north exit in room 210
+[*****] BUG: Get_room_index: bad vnum 431.
+[*****] BUG: Deleting east exit in room 216
+[*****] BUG: Get_room_index: bad vnum 433.
+[*****] BUG: Deleting southwest exit in room 217
+[*****] BUG: Get_room_index: bad vnum 436.
+[*****] BUG: Deleting west exit in room 218
+[*****] BUG: Get_room_index: bad vnum 435.
+[*****] BUG: Deleting southwest exit in room 218
+[*****] BUG: Get_room_index: bad vnum 438.
+[*****] BUG: Deleting west exit in room 219
+[*****] BUG: Get_room_index: bad vnum 437.
+[*****] BUG: Deleting southwest exit in room 219
+[*****] BUG: Get_room_index: bad vnum 439.
+[*****] BUG: Deleting south exit in room 220
+[*****] BUG: Get_room_index: bad vnum 441.
+[*****] BUG: Deleting north exit in room 221
+[*****] BUG: Get_room_index: bad vnum 443.
+[*****] BUG: Deleting east exit in room 222
+[*****] BUG: Get_room_index: bad vnum 445.
+[*****] BUG: Deleting south exit in room 223
+[*****] BUG: Get_room_index: bad vnum 447.
+[*****] BUG: Deleting north exit in room 224
+[*****] BUG: Get_room_index: bad vnum 10006.
+[*****] BUG: Deleting west exit in room 32297
+[*****] BUG: Get_room_index: bad vnum 21100.
+[*****] BUG: Deleting down exit in room 32299
+[*****] BUG: Fread_planet: no match: .000000
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 302.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
+[*****] BUG: Reset_area: 'O': bad obj vnum 21500.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 305.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 304.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 332.
+[*****] BUG: Reset_area: 'E' or 'G': bad obj vnum 329.
+[*****] BUG: Reset_area: 'O': bad obj vnum 10199.
